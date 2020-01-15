@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Door
+  - Hammer
+  - Arrow
+  - BreadBasket
+  - Bin
+  - Grill
+  - SaucePile
+  - CheesePile
+  - LettucePile
+  - WaterPile
+  - Lettuce
+  - Sauce
+  - Cheese
+  - Sausage
+  - Bread
+  - Water
+  - Plate
+  - Plate_Trigger
+  - PlatePlacement
+  - Placed
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Draggable
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

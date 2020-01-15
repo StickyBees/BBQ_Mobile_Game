@@ -1,0 +1,4163 @@
+fileFormatVersion: 2
+guid: fd75e63c14c4540438372a6844af68b6
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Arch_Gate
+  - first:
+      1: 100002
+    second: Bar_1
+  - first:
+      1: 100004
+    second: Bar_2
+  - first:
+      1: 100006
+    second: Bar_3
+  - first:
+      1: 100008
+    second: Bar_4
+  - first:
+      1: 100010
+    second: Bar_5
+  - first:
+      1: 100012
+    second: Barrel
+  - first:
+      1: 100014
+    second: Bucket
+  - first:
+      1: 100016
+    second: Candle_A
+  - first:
+      1: 100018
+    second: Candle_B
+  - first:
+      1: 100020
+    second: Candle_C
+  - first:
+      1: 100022
+    second: Candle_D
+  - first:
+      1: 100024
+    second: Candle_E
+  - first:
+      1: 100026
+    second: Candles
+  - first:
+      1: 100028
+    second: Cell_Seat
+  - first:
+      1: 100030
+    second: Chain_A
+  - first:
+      1: 100032
+    second: Chain_B
+  - first:
+      1: 100034
+    second: Chain_C
+  - first:
+      1: 100036
+    second: Crate_A
+  - first:
+      1: 100038
+    second: Crate_B
+  - first:
+      1: 100040
+    second: Crate_C
+  - first:
+      1: 100042
+    second: Crates
+  - first:
+      1: 100044
+    second: Debris_1
+  - first:
+      1: 100046
+    second: Debris_2
+  - first:
+      1: 100048
+    second: Dungeon_Key_Set
+  - first:
+      1: 100050
+    second: Floor_Gate
+  - first:
+      1: 100052
+    second: Key_A
+  - first:
+      1: 100054
+    second: Key_B
+  - first:
+      1: 100056
+    second: Key_C
+  - first:
+      1: 100058
+    second: Keychain
+  - first:
+      1: 100060
+    second: Ladder
+  - first:
+      1: 100062
+    second: Left_Side
+  - first:
+      1: 100064
+    second: pCube8
+  - first:
+      1: 100066
+    second: pCylinder1
+  - first:
+      1: 100068
+    second: pCylinder2
+  - first:
+      1: 100070
+    second: pCylinder3
+  - first:
+      1: 100072
+    second: //RootNode
+  - first:
+      1: 100074
+    second: pTorus1
+  - first:
+      1: 100076
+    second: pTorus11
+  - first:
+      1: 100078
+    second: pTorus12
+  - first:
+      1: 100080
+    second: pTorus13
+  - first:
+      1: 100082
+    second: pTorus14
+  - first:
+      1: 100084
+    second: pTorus15
+  - first:
+      1: 100086
+    second: pTorus16
+  - first:
+      1: 100088
+    second: pTorus17
+  - first:
+      1: 100090
+    second: pTorus18
+  - first:
+      1: 100092
+    second: pTorus2
+  - first:
+      1: 100094
+    second: pTorus20
+  - first:
+      1: 100096
+    second: pTorus21
+  - first:
+      1: 100098
+    second: pTorus22
+  - first:
+      1: 100100
+    second: pTorus23
+  - first:
+      1: 100102
+    second: pTorus24
+  - first:
+      1: 100104
+    second: pTorus25
+  - first:
+      1: 100106
+    second: pTorus26
+  - first:
+      1: 100108
+    second: pTorus27
+  - first:
+      1: 100110
+    second: pTorus28
+  - first:
+      1: 100112
+    second: pTorus29
+  - first:
+      1: 100114
+    second: pTorus3
+  - first:
+      1: 100116
+    second: pTorus30
+  - first:
+      1: 100118
+    second: pTorus31
+  - first:
+      1: 100120
+    second: pTorus32
+  - first:
+      1: 100122
+    second: pTorus33
+  - first:
+      1: 100124
+    second: pTorus34
+  - first:
+      1: 100126
+    second: pTorus36
+  - first:
+      1: 100128
+    second: pTorus37
+  - first:
+      1: 100130
+    second: pTorus38
+  - first:
+      1: 100132
+    second: pTorus39
+  - first:
+      1: 100134
+    second: pTorus4
+  - first:
+      1: 100136
+    second: pTorus40
+  - first:
+      1: 100138
+    second: pTorus41
+  - first:
+      1: 100140
+    second: pTorus42
+  - first:
+      1: 100142
+    second: pTorus43
+  - first:
+      1: 100144
+    second: pTorus44
+  - first:
+      1: 100146
+    second: pTorus45
+  - first:
+      1: 100148
+    second: pTorus46
+  - first:
+      1: 100150
+    second: pTorus47
+  - first:
+      1: 100152
+    second: pTorus48
+  - first:
+      1: 100154
+    second: pTorus49
+  - first:
+      1: 100156
+    second: pTorus5
+  - first:
+      1: 100158
+    second: pTorus50
+  - first:
+      1: 100160
+    second: pTorus51
+  - first:
+      1: 100162
+    second: pTorus52
+  - first:
+      1: 100164
+    second: pTorus53
+  - first:
+      1: 100166
+    second: pTorus54
+  - first:
+      1: 100168
+    second: pTorus55
+  - first:
+      1: 100170
+    second: pTorus57
+  - first:
+      1: 100172
+    second: pTorus58
+  - first:
+      1: 100174
+    second: pTorus59
+  - first:
+      1: 100176
+    second: pTorus6
+  - first:
+      1: 100178
+    second: pTorus60
+  - first:
+      1: 100180
+    second: pTorus61
+  - first:
+      1: 100182
+    second: pTorus62
+  - first:
+      1: 100184
+    second: pTorus63
+  - first:
+      1: 100186
+    second: pTorus64
+  - first:
+      1: 100188
+    second: pTorus65
+  - first:
+      1: 100190
+    second: pTorus66
+  - first:
+      1: 100192
+    second: pTorus67
+  - first:
+      1: 100194
+    second: pTorus68
+  - first:
+      1: 100196
+    second: pTorus69
+  - first:
+      1: 100198
+    second: pTorus7
+  - first:
+      1: 100200
+    second: pTorus70
+  - first:
+      1: 100202
+    second: pTorus71
+  - first:
+      1: 100204
+    second: pTorus72
+  - first:
+      1: 100206
+    second: pTorus73
+  - first:
+      1: 100208
+    second: pTorus74
+  - first:
+      1: 100210
+    second: pTorus75
+  - first:
+      1: 100212
+    second: pTorus76
+  - first:
+      1: 100214
+    second: pTorus77
+  - first:
+      1: 100216
+    second: pTorus78
+  - first:
+      1: 100218
+    second: pTorus79
+  - first:
+      1: 100220
+    second: pTorus8
+  - first:
+      1: 100222
+    second: pTorus8 1
+  - first:
+      1: 100224
+    second: pTorus80
+  - first:
+      1: 100226
+    second: Right_Side
+  - first:
+      1: 100228
+    second: Slavery_Chains
+  - first:
+      1: 100230
+    second: Stone_1
+  - first:
+      1: 100232
+    second: Stone_2
+  - first:
+      1: 100234
+    second: Stool_A
+  - first:
+      1: 100236
+    second: Stool_A_Broken
+  - first:
+      1: 100238
+    second: Stool_A_Broken 1
+  - first:
+      1: 100240
+    second: Stool_A_Broken 2
+  - first:
+      1: 100242
+    second: Stools
+  - first:
+      1: 100244
+    second: Table_A
+  - first:
+      1: 100246
+    second: Table_B
+  - first:
+      1: 100248
+    second: Table_C
+  - first:
+      1: 100250
+    second: Tables
+  - first:
+      1: 100252
+    second: Torch
+  - first:
+      1: 100254
+    second: Wood_Seat
+  - first:
+      1: 100256
+    second: Barrel_Collider
+  - first:
+      1: 100258
+    second: Chain_Link_1
+  - first:
+      1: 100260
+    second: Chain_Link_1 1
+  - first:
+      1: 100262
+    second: Chain_Link_1 2
+  - first:
+      1: 100264
+    second: Chain_Link_10
+  - first:
+      1: 100266
+    second: Chain_Link_10 1
+  - first:
+      1: 100268
+    second: Chain_Link_10 2
+  - first:
+      1: 100270
+    second: Chain_Link_11
+  - first:
+      1: 100272
+    second: Chain_Link_11 1
+  - first:
+      1: 100274
+    second: Chain_Link_11 2
+  - first:
+      1: 100276
+    second: Chain_Link_12
+  - first:
+      1: 100278
+    second: Chain_Link_12 1
+  - first:
+      1: 100280
+    second: Chain_Link_12 2
+  - first:
+      1: 100282
+    second: Chain_Link_13
+  - first:
+      1: 100284
+    second: Chain_Link_13 1
+  - first:
+      1: 100286
+    second: Chain_Link_14
+  - first:
+      1: 100288
+    second: Chain_Link_14 1
+  - first:
+      1: 100290
+    second: Chain_Link_15
+  - first:
+      1: 100292
+    second: Chain_Link_15 1
+  - first:
+      1: 100294
+    second: Chain_Link_16
+  - first:
+      1: 100296
+    second: Chain_Link_16 1
+  - first:
+      1: 100298
+    second: Chain_Link_17
+  - first:
+      1: 100300
+    second: Chain_Link_17 1
+  - first:
+      1: 100302
+    second: Chain_Link_18
+  - first:
+      1: 100304
+    second: Chain_Link_18 1
+  - first:
+      1: 100306
+    second: Chain_Link_19
+  - first:
+      1: 100308
+    second: Chain_Link_19 1
+  - first:
+      1: 100310
+    second: Chain_Link_2
+  - first:
+      1: 100312
+    second: Chain_Link_2 1
+  - first:
+      1: 100314
+    second: Chain_Link_2 2
+  - first:
+      1: 100316
+    second: Chain_Link_20
+  - first:
+      1: 100318
+    second: Chain_Link_20 1
+  - first:
+      1: 100320
+    second: Chain_Link_21
+  - first:
+      1: 100322
+    second: Chain_Link_21 1
+  - first:
+      1: 100324
+    second: Chain_Link_22
+  - first:
+      1: 100326
+    second: Chain_Link_22 1
+  - first:
+      1: 100328
+    second: Chain_Link_23
+  - first:
+      1: 100330
+    second: Chain_Link_23 1
+  - first:
+      1: 100332
+    second: Chain_Link_24
+  - first:
+      1: 100334
+    second: Chain_Link_24 1
+  - first:
+      1: 100336
+    second: Chain_Link_25
+  - first:
+      1: 100338
+    second: Chain_Link_25 1
+  - first:
+      1: 100340
+    second: Chain_Link_26
+  - first:
+      1: 100342
+    second: Chain_Link_26 1
+  - first:
+      1: 100344
+    second: Chain_Link_27
+  - first:
+      1: 100346
+    second: Chain_Link_27 1
+  - first:
+      1: 100348
+    second: Chain_Link_28
+  - first:
+      1: 100350
+    second: Chain_Link_28 1
+  - first:
+      1: 100352
+    second: Chain_Link_29
+  - first:
+      1: 100354
+    second: Chain_Link_29 1
+  - first:
+      1: 100356
+    second: Chain_Link_3
+  - first:
+      1: 100358
+    second: Chain_Link_3 1
+  - first:
+      1: 100360
+    second: Chain_Link_3 2
+  - first:
+      1: 100362
+    second: Chain_Link_30
+  - first:
+      1: 100364
+    second: Chain_Link_30 1
+  - first:
+      1: 100366
+    second: Chain_Link_31
+  - first:
+      1: 100368
+    second: Chain_Link_31 1
+  - first:
+      1: 100370
+    second: Chain_Link_32
+  - first:
+      1: 100372
+    second: Chain_Link_4
+  - first:
+      1: 100374
+    second: Chain_Link_4 1
+  - first:
+      1: 100376
+    second: Chain_Link_4 2
+  - first:
+      1: 100378
+    second: Chain_Link_5
+  - first:
+      1: 100380
+    second: Chain_Link_5 1
+  - first:
+      1: 100382
+    second: Chain_Link_5 2
+  - first:
+      1: 100384
+    second: Chain_Link_6
+  - first:
+      1: 100386
+    second: Chain_Link_6 1
+  - first:
+      1: 100388
+    second: Chain_Link_6 2
+  - first:
+      1: 100390
+    second: Chain_Link_7
+  - first:
+      1: 100392
+    second: Chain_Link_7 1
+  - first:
+      1: 100394
+    second: Chain_Link_7 2
+  - first:
+      1: 100396
+    second: Chain_Link_8
+  - first:
+      1: 100398
+    second: Chain_Link_8 1
+  - first:
+      1: 100400
+    second: Chain_Link_8 2
+  - first:
+      1: 100402
+    second: Chain_Link_9
+  - first:
+      1: 100404
+    second: Chain_Link_9 1
+  - first:
+      1: 100406
+    second: Chain_Link_9 2
+  - first:
+      1: 100408
+    second: Hook
+  - first:
+      1: 100410
+    second: Peg_1
+  - first:
+      1: 100412
+    second: Peg_2
+  - first:
+      1: 100414
+    second: Plate
+  - first:
+      1: 100416
+    second: Props
+  - first:
+      1: 100418
+    second: Chain_D
+  - first:
+      1: 100420
+    second: Chain_E
+  - first:
+      1: 100422
+    second: Chain_Link_1 3
+  - first:
+      1: 100424
+    second: Chain_Link_1 4
+  - first:
+      1: 100426
+    second: Chain_Link_10 3
+  - first:
+      1: 100428
+    second: Chain_Link_10 4
+  - first:
+      1: 100430
+    second: Chain_Link_11 3
+  - first:
+      1: 100432
+    second: Chain_Link_11 4
+  - first:
+      1: 100434
+    second: Chain_Link_12 3
+  - first:
+      1: 100436
+    second: Chain_Link_12 4
+  - first:
+      1: 100438
+    second: Chain_Link_13 2
+  - first:
+      1: 100440
+    second: Chain_Link_14 2
+  - first:
+      1: 100442
+    second: Chain_Link_15 2
+  - first:
+      1: 100444
+    second: Chain_Link_16 2
+  - first:
+      1: 100446
+    second: Chain_Link_17 2
+  - first:
+      1: 100448
+    second: Chain_Link_18 2
+  - first:
+      1: 100450
+    second: Chain_Link_19 2
+  - first:
+      1: 100452
+    second: Chain_Link_2 3
+  - first:
+      1: 100454
+    second: Chain_Link_2 4
+  - first:
+      1: 100456
+    second: Chain_Link_20 2
+  - first:
+      1: 100458
+    second: Chain_Link_21 2
+  - first:
+      1: 100460
+    second: Chain_Link_22 2
+  - first:
+      1: 100462
+    second: Chain_Link_23 2
+  - first:
+      1: 100464
+    second: Chain_Link_24 2
+  - first:
+      1: 100466
+    second: Chain_Link_25 2
+  - first:
+      1: 100468
+    second: Chain_Link_26 2
+  - first:
+      1: 100470
+    second: Chain_Link_27 2
+  - first:
+      1: 100472
+    second: Chain_Link_28 2
+  - first:
+      1: 100474
+    second: Chain_Link_29 2
+  - first:
+      1: 100476
+    second: Chain_Link_3 3
+  - first:
+      1: 100478
+    second: Chain_Link_3 4
+  - first:
+      1: 100480
+    second: Chain_Link_30 2
+  - first:
+      1: 100482
+    second: Chain_Link_31 2
+  - first:
+      1: 100484
+    second: Chain_Link_4 3
+  - first:
+      1: 100486
+    second: Chain_Link_4 4
+  - first:
+      1: 100488
+    second: Chain_Link_5 3
+  - first:
+      1: 100490
+    second: Chain_Link_5 4
+  - first:
+      1: 100492
+    second: Chain_Link_6 3
+  - first:
+      1: 100494
+    second: Chain_Link_6 4
+  - first:
+      1: 100496
+    second: Chain_Link_7 3
+  - first:
+      1: 100498
+    second: Chain_Link_7 4
+  - first:
+      1: 100500
+    second: Chain_Link_8 3
+  - first:
+      1: 100502
+    second: Chain_Link_8 4
+  - first:
+      1: 100504
+    second: Chain_Link_9 3
+  - first:
+      1: 100506
+    second: Chain_Link_9 4
+  - first:
+      1: 100508
+    second: Debris_1 1
+  - first:
+      1: 100510
+    second: Debris_2 1
+  - first:
+      1: 100512
+    second: Floor_Cage
+  - first:
+      1: 100514
+    second: group1
+  - first:
+      1: 100516
+    second: Hanging_Cage
+  - first:
+      1: 100518
+    second: Hook 1
+  - first:
+      1: 100520
+    second: Plate 1
+  - first:
+      1: 100522
+    second: Tunnel_Grate
+  - first:
+      1: 100524
+    second: Tunnel_Grate_Broken
+  - first:
+      1: 100526
+    second: Tunnel_Grate_Broken 1
+  - first:
+      1: 100528
+    second: Tunnel_Grates
+  - first:
+      1: 100530
+    second: Leg_1
+  - first:
+      1: 100532
+    second: Leg_1 1
+  - first:
+      1: 100534
+    second: Leg_1 2
+  - first:
+      1: 100536
+    second: Leg_2
+  - first:
+      1: 100538
+    second: Leg_2 1
+  - first:
+      1: 100540
+    second: Leg_2 2
+  - first:
+      1: 100542
+    second: Leg_3
+  - first:
+      1: 100544
+    second: Leg_3 1
+  - first:
+      1: 100546
+    second: Leg_3 2
+  - first:
+      1: 100548
+    second: Leg_4
+  - first:
+      1: 100550
+    second: Leg_4 1
+  - first:
+      1: 100552
+    second: Leg_4 2
+  - first:
+      1: 100554
+    second: Table_Top
+  - first:
+      1: 100556
+    second: Table_Top 1
+  - first:
+      1: 100558
+    second: Table_Top 2
+  - first:
+      4: 400000
+    second: Arch_Gate
+  - first:
+      4: 400002
+    second: Bar_1
+  - first:
+      4: 400004
+    second: Bar_2
+  - first:
+      4: 400006
+    second: Bar_3
+  - first:
+      4: 400008
+    second: Bar_4
+  - first:
+      4: 400010
+    second: Bar_5
+  - first:
+      4: 400012
+    second: Barrel
+  - first:
+      4: 400014
+    second: Bucket
+  - first:
+      4: 400016
+    second: Candle_A
+  - first:
+      4: 400018
+    second: Candle_B
+  - first:
+      4: 400020
+    second: Candle_C
+  - first:
+      4: 400022
+    second: Candle_D
+  - first:
+      4: 400024
+    second: Candle_E
+  - first:
+      4: 400026
+    second: Candles
+  - first:
+      4: 400028
+    second: Cell_Seat
+  - first:
+      4: 400030
+    second: Chain_A
+  - first:
+      4: 400032
+    second: Chain_B
+  - first:
+      4: 400034
+    second: Chain_C
+  - first:
+      4: 400036
+    second: Crate_A
+  - first:
+      4: 400038
+    second: Crate_B
+  - first:
+      4: 400040
+    second: Crate_C
+  - first:
+      4: 400042
+    second: Crates
+  - first:
+      4: 400044
+    second: Debris_1
+  - first:
+      4: 400046
+    second: Debris_2
+  - first:
+      4: 400048
+    second: Dungeon_Key_Set
+  - first:
+      4: 400050
+    second: Floor_Gate
+  - first:
+      4: 400052
+    second: Key_A
+  - first:
+      4: 400054
+    second: Key_B
+  - first:
+      4: 400056
+    second: Key_C
+  - first:
+      4: 400058
+    second: Keychain
+  - first:
+      4: 400060
+    second: Ladder
+  - first:
+      4: 400062
+    second: Left_Side
+  - first:
+      4: 400064
+    second: pCube8
+  - first:
+      4: 400066
+    second: pCylinder1
+  - first:
+      4: 400068
+    second: pCylinder2
+  - first:
+      4: 400070
+    second: pCylinder3
+  - first:
+      4: 400072
+    second: //RootNode
+  - first:
+      4: 400074
+    second: pTorus1
+  - first:
+      4: 400076
+    second: pTorus11
+  - first:
+      4: 400078
+    second: pTorus12
+  - first:
+      4: 400080
+    second: pTorus13
+  - first:
+      4: 400082
+    second: pTorus14
+  - first:
+      4: 400084
+    second: pTorus15
+  - first:
+      4: 400086
+    second: pTorus16
+  - first:
+      4: 400088
+    second: pTorus17
+  - first:
+      4: 400090
+    second: pTorus18
+  - first:
+      4: 400092
+    second: pTorus2
+  - first:
+      4: 400094
+    second: pTorus20
+  - first:
+      4: 400096
+    second: pTorus21
+  - first:
+      4: 400098
+    second: pTorus22
+  - first:
+      4: 400100
+    second: pTorus23
+  - first:
+      4: 400102
+    second: pTorus24
+  - first:
+      4: 400104
+    second: pTorus25
+  - first:
+      4: 400106
+    second: pTorus26
+  - first:
+      4: 400108
+    second: pTorus27
+  - first:
+      4: 400110
+    second: pTorus28
+  - first:
+      4: 400112
+    second: pTorus29
+  - first:
+      4: 400114
+    second: pTorus3
+  - first:
+      4: 400116
+    second: pTorus30
+  - first:
+      4: 400118
+    second: pTorus31
+  - first:
+      4: 400120
+    second: pTorus32
+  - first:
+      4: 400122
+    second: pTorus33
+  - first:
+      4: 400124
+    second: pTorus34
+  - first:
+      4: 400126
+    second: pTorus36
+  - first:
+      4: 400128
+    second: pTorus37
+  - first:
+      4: 400130
+    second: pTorus38
+  - first:
+      4: 400132
+    second: pTorus39
+  - first:
+      4: 400134
+    second: pTorus4
+  - first:
+      4: 400136
+    second: pTorus40
+  - first:
+      4: 400138
+    second: pTorus41
+  - first:
+      4: 400140
+    second: pTorus42
+  - first:
+      4: 400142
+    second: pTorus43
+  - first:
+      4: 400144
+    second: pTorus44
+  - first:
+      4: 400146
+    second: pTorus45
+  - first:
+      4: 400148
+    second: pTorus46
+  - first:
+      4: 400150
+    second: pTorus47
+  - first:
+      4: 400152
+    second: pTorus48
+  - first:
+      4: 400154
+    second: pTorus49
+  - first:
+      4: 400156
+    second: pTorus5
+  - first:
+      4: 400158
+    second: pTorus50
+  - first:
+      4: 400160
+    second: pTorus51
+  - first:
+      4: 400162
+    second: pTorus52
+  - first:
+      4: 400164
+    second: pTorus53
+  - first:
+      4: 400166
+    second: pTorus54
+  - first:
+      4: 400168
+    second: pTorus55
+  - first:
+      4: 400170
+    second: pTorus57
+  - first:
+      4: 400172
+    second: pTorus58
+  - first:
+      4: 400174
+    second: pTorus59
+  - first:
+      4: 400176
+    second: pTorus6
+  - first:
+      4: 400178
+    second: pTorus60
+  - first:
+      4: 400180
+    second: pTorus61
+  - first:
+      4: 400182
+    second: pTorus62
+  - first:
+      4: 400184
+    second: pTorus63
+  - first:
+      4: 400186
+    second: pTorus64
+  - first:
+      4: 400188
+    second: pTorus65
+  - first:
+      4: 400190
+    second: pTorus66
+  - first:
+      4: 400192
+    second: pTorus67
+  - first:
+      4: 400194
+    second: pTorus68
+  - first:
+      4: 400196
+    second: pTorus69
+  - first:
+      4: 400198
+    second: pTorus7
+  - first:
+      4: 400200
+    second: pTorus70
+  - first:
+      4: 400202
+    second: pTorus71
+  - first:
+      4: 400204
+    second: pTorus72
+  - first:
+      4: 400206
+    second: pTorus73
+  - first:
+      4: 400208
+    second: pTorus74
+  - first:
+      4: 400210
+    second: pTorus75
+  - first:
+      4: 400212
+    second: pTorus76
+  - first:
+      4: 400214
+    second: pTorus77
+  - first:
+      4: 400216
+    second: pTorus78
+  - first:
+      4: 400218
+    second: pTorus79
+  - first:
+      4: 400220
+    second: pTorus8
+  - first:
+      4: 400222
+    second: pTorus8 1
+  - first:
+      4: 400224
+    second: pTorus80
+  - first:
+      4: 400226
+    second: Right_Side
+  - first:
+      4: 400228
+    second: Slavery_Chains
+  - first:
+      4: 400230
+    second: Stone_1
+  - first:
+      4: 400232
+    second: Stone_2
+  - first:
+      4: 400234
+    second: Stool_A
+  - first:
+      4: 400236
+    second: Stool_A_Broken
+  - first:
+      4: 400238
+    second: Stool_A_Broken 1
+  - first:
+      4: 400240
+    second: Stool_A_Broken 2
+  - first:
+      4: 400242
+    second: Stools
+  - first:
+      4: 400244
+    second: Table_A
+  - first:
+      4: 400246
+    second: Table_B
+  - first:
+      4: 400248
+    second: Table_C
+  - first:
+      4: 400250
+    second: Tables
+  - first:
+      4: 400252
+    second: Torch
+  - first:
+      4: 400254
+    second: Wood_Seat
+  - first:
+      4: 400256
+    second: Barrel_Collider
+  - first:
+      4: 400258
+    second: Chain_Link_1
+  - first:
+      4: 400260
+    second: Chain_Link_1 1
+  - first:
+      4: 400262
+    second: Chain_Link_1 2
+  - first:
+      4: 400264
+    second: Chain_Link_10
+  - first:
+      4: 400266
+    second: Chain_Link_10 1
+  - first:
+      4: 400268
+    second: Chain_Link_10 2
+  - first:
+      4: 400270
+    second: Chain_Link_11
+  - first:
+      4: 400272
+    second: Chain_Link_11 1
+  - first:
+      4: 400274
+    second: Chain_Link_11 2
+  - first:
+      4: 400276
+    second: Chain_Link_12
+  - first:
+      4: 400278
+    second: Chain_Link_12 1
+  - first:
+      4: 400280
+    second: Chain_Link_12 2
+  - first:
+      4: 400282
+    second: Chain_Link_13
+  - first:
+      4: 400284
+    second: Chain_Link_13 1
+  - first:
+      4: 400286
+    second: Chain_Link_14
+  - first:
+      4: 400288
+    second: Chain_Link_14 1
+  - first:
+      4: 400290
+    second: Chain_Link_15
+  - first:
+      4: 400292
+    second: Chain_Link_15 1
+  - first:
+      4: 400294
+    second: Chain_Link_16
+  - first:
+      4: 400296
+    second: Chain_Link_16 1
+  - first:
+      4: 400298
+    second: Chain_Link_17
+  - first:
+      4: 400300
+    second: Chain_Link_17 1
+  - first:
+      4: 400302
+    second: Chain_Link_18
+  - first:
+      4: 400304
+    second: Chain_Link_18 1
+  - first:
+      4: 400306
+    second: Chain_Link_19
+  - first:
+      4: 400308
+    second: Chain_Link_19 1
+  - first:
+      4: 400310
+    second: Chain_Link_2
+  - first:
+      4: 400312
+    second: Chain_Link_2 1
+  - first:
+      4: 400314
+    second: Chain_Link_2 2
+  - first:
+      4: 400316
+    second: Chain_Link_20
+  - first:
+      4: 400318
+    second: Chain_Link_20 1
+  - first:
+      4: 400320
+    second: Chain_Link_21
+  - first:
+      4: 400322
+    second: Chain_Link_21 1
+  - first:
+      4: 400324
+    second: Chain_Link_22
+  - first:
+      4: 400326
+    second: Chain_Link_22 1
+  - first:
+      4: 400328
+    second: Chain_Link_23
+  - first:
+      4: 400330
+    second: Chain_Link_23 1
+  - first:
+      4: 400332
+    second: Chain_Link_24
+  - first:
+      4: 400334
+    second: Chain_Link_24 1
+  - first:
+      4: 400336
+    second: Chain_Link_25
+  - first:
+      4: 400338
+    second: Chain_Link_25 1
+  - first:
+      4: 400340
+    second: Chain_Link_26
+  - first:
+      4: 400342
+    second: Chain_Link_26 1
+  - first:
+      4: 400344
+    second: Chain_Link_27
+  - first:
+      4: 400346
+    second: Chain_Link_27 1
+  - first:
+      4: 400348
+    second: Chain_Link_28
+  - first:
+      4: 400350
+    second: Chain_Link_28 1
+  - first:
+      4: 400352
+    second: Chain_Link_29
+  - first:
+      4: 400354
+    second: Chain_Link_29 1
+  - first:
+      4: 400356
+    second: Chain_Link_3
+  - first:
+      4: 400358
+    second: Chain_Link_3 1
+  - first:
+      4: 400360
+    second: Chain_Link_3 2
+  - first:
+      4: 400362
+    second: Chain_Link_30
+  - first:
+      4: 400364
+    second: Chain_Link_30 1
+  - first:
+      4: 400366
+    second: Chain_Link_31
+  - first:
+      4: 400368
+    second: Chain_Link_31 1
+  - first:
+      4: 400370
+    second: Chain_Link_32
+  - first:
+      4: 400372
+    second: Chain_Link_4
+  - first:
+      4: 400374
+    second: Chain_Link_4 1
+  - first:
+      4: 400376
+    second: Chain_Link_4 2
+  - first:
+      4: 400378
+    second: Chain_Link_5
+  - first:
+      4: 400380
+    second: Chain_Link_5 1
+  - first:
+      4: 400382
+    second: Chain_Link_5 2
+  - first:
+      4: 400384
+    second: Chain_Link_6
+  - first:
+      4: 400386
+    second: Chain_Link_6 1
+  - first:
+      4: 400388
+    second: Chain_Link_6 2
+  - first:
+      4: 400390
+    second: Chain_Link_7
+  - first:
+      4: 400392
+    second: Chain_Link_7 1
+  - first:
+      4: 400394
+    second: Chain_Link_7 2
+  - first:
+      4: 400396
+    second: Chain_Link_8
+  - first:
+      4: 400398
+    second: Chain_Link_8 1
+  - first:
+      4: 400400
+    second: Chain_Link_8 2
+  - first:
+      4: 400402
+    second: Chain_Link_9
+  - first:
+      4: 400404
+    second: Chain_Link_9 1
+  - first:
+      4: 400406
+    second: Chain_Link_9 2
+  - first:
+      4: 400408
+    second: Hook
+  - first:
+      4: 400410
+    second: Peg_1
+  - first:
+      4: 400412
+    second: Peg_2
+  - first:
+      4: 400414
+    second: Plate
+  - first:
+      4: 400416
+    second: Props
+  - first:
+      4: 400418
+    second: Chain_D
+  - first:
+      4: 400420
+    second: Chain_E
+  - first:
+      4: 400422
+    second: Chain_Link_1 3
+  - first:
+      4: 400424
+    second: Chain_Link_1 4
+  - first:
+      4: 400426
+    second: Chain_Link_10 3
+  - first:
+      4: 400428
+    second: Chain_Link_10 4
+  - first:
+      4: 400430
+    second: Chain_Link_11 3
+  - first:
+      4: 400432
+    second: Chain_Link_11 4
+  - first:
+      4: 400434
+    second: Chain_Link_12 3
+  - first:
+      4: 400436
+    second: Chain_Link_12 4
+  - first:
+      4: 400438
+    second: Chain_Link_13 2
+  - first:
+      4: 400440
+    second: Chain_Link_14 2
+  - first:
+      4: 400442
+    second: Chain_Link_15 2
+  - first:
+      4: 400444
+    second: Chain_Link_16 2
+  - first:
+      4: 400446
+    second: Chain_Link_17 2
+  - first:
+      4: 400448
+    second: Chain_Link_18 2
+  - first:
+      4: 400450
+    second: Chain_Link_19 2
+  - first:
+      4: 400452
+    second: Chain_Link_2 3
+  - first:
+      4: 400454
+    second: Chain_Link_2 4
+  - first:
+      4: 400456
+    second: Chain_Link_20 2
+  - first:
+      4: 400458
+    second: Chain_Link_21 2
+  - first:
+      4: 400460
+    second: Chain_Link_22 2
+  - first:
+      4: 400462
+    second: Chain_Link_23 2
+  - first:
+      4: 400464
+    second: Chain_Link_24 2
+  - first:
+      4: 400466
+    second: Chain_Link_25 2
+  - first:
+      4: 400468
+    second: Chain_Link_26 2
+  - first:
+      4: 400470
+    second: Chain_Link_27 2
+  - first:
+      4: 400472
+    second: Chain_Link_28 2
+  - first:
+      4: 400474
+    second: Chain_Link_29 2
+  - first:
+      4: 400476
+    second: Chain_Link_3 3
+  - first:
+      4: 400478
+    second: Chain_Link_3 4
+  - first:
+      4: 400480
+    second: Chain_Link_30 2
+  - first:
+      4: 400482
+    second: Chain_Link_31 2
+  - first:
+      4: 400484
+    second: Chain_Link_4 3
+  - first:
+      4: 400486
+    second: Chain_Link_4 4
+  - first:
+      4: 400488
+    second: Chain_Link_5 3
+  - first:
+      4: 400490
+    second: Chain_Link_5 4
+  - first:
+      4: 400492
+    second: Chain_Link_6 3
+  - first:
+      4: 400494
+    second: Chain_Link_6 4
+  - first:
+      4: 400496
+    second: Chain_Link_7 3
+  - first:
+      4: 400498
+    second: Chain_Link_7 4
+  - first:
+      4: 400500
+    second: Chain_Link_8 3
+  - first:
+      4: 400502
+    second: Chain_Link_8 4
+  - first:
+      4: 400504
+    second: Chain_Link_9 3
+  - first:
+      4: 400506
+    second: Chain_Link_9 4
+  - first:
+      4: 400508
+    second: Debris_1 1
+  - first:
+      4: 400510
+    second: Debris_2 1
+  - first:
+      4: 400512
+    second: Floor_Cage
+  - first:
+      4: 400514
+    second: group1
+  - first:
+      4: 400516
+    second: Hanging_Cage
+  - first:
+      4: 400518
+    second: Hook 1
+  - first:
+      4: 400520
+    second: Plate 1
+  - first:
+      4: 400522
+    second: Tunnel_Grate
+  - first:
+      4: 400524
+    second: Tunnel_Grate_Broken
+  - first:
+      4: 400526
+    second: Tunnel_Grate_Broken 1
+  - first:
+      4: 400528
+    second: Tunnel_Grates
+  - first:
+      4: 400530
+    second: Leg_1
+  - first:
+      4: 400532
+    second: Leg_1 1
+  - first:
+      4: 400534
+    second: Leg_1 2
+  - first:
+      4: 400536
+    second: Leg_2
+  - first:
+      4: 400538
+    second: Leg_2 1
+  - first:
+      4: 400540
+    second: Leg_2 2
+  - first:
+      4: 400542
+    second: Leg_3
+  - first:
+      4: 400544
+    second: Leg_3 1
+  - first:
+      4: 400546
+    second: Leg_3 2
+  - first:
+      4: 400548
+    second: Leg_4
+  - first:
+      4: 400550
+    second: Leg_4 1
+  - first:
+      4: 400552
+    second: Leg_4 2
+  - first:
+      4: 400554
+    second: Table_Top
+  - first:
+      4: 400556
+    second: Table_Top 1
+  - first:
+      4: 400558
+    second: Table_Top 2
+  - first:
+      23: 2300000
+    second: Arch_Gate
+  - first:
+      23: 2300002
+    second: Bar_1
+  - first:
+      23: 2300004
+    second: Bar_2
+  - first:
+      23: 2300006
+    second: Bar_3
+  - first:
+      23: 2300008
+    second: Bar_4
+  - first:
+      23: 2300010
+    second: Bar_5
+  - first:
+      23: 2300012
+    second: Barrel
+  - first:
+      23: 2300014
+    second: Bucket
+  - first:
+      23: 2300016
+    second: Candle_A
+  - first:
+      23: 2300018
+    second: Candle_B
+  - first:
+      23: 2300020
+    second: Candle_C
+  - first:
+      23: 2300022
+    second: Candle_D
+  - first:
+      23: 2300024
+    second: Candle_E
+  - first:
+      23: 2300026
+    second: Crate_A
+  - first:
+      23: 2300028
+    second: Crate_B
+  - first:
+      23: 2300030
+    second: Crate_C
+  - first:
+      23: 2300032
+    second: Debris_1
+  - first:
+      23: 2300034
+    second: Debris_2
+  - first:
+      23: 2300036
+    second: Floor_Gate
+  - first:
+      23: 2300038
+    second: Key_A
+  - first:
+      23: 2300040
+    second: Key_B
+  - first:
+      23: 2300042
+    second: Key_C
+  - first:
+      23: 2300044
+    second: Keychain
+  - first:
+      23: 2300046
+    second: Left_Side
+  - first:
+      23: 2300048
+    second: pCube8
+  - first:
+      23: 2300050
+    second: pCylinder1
+  - first:
+      23: 2300052
+    second: pCylinder2
+  - first:
+      23: 2300054
+    second: pCylinder3
+  - first:
+      23: 2300056
+    second: pTorus1
+  - first:
+      23: 2300058
+    second: pTorus11
+  - first:
+      23: 2300060
+    second: pTorus12
+  - first:
+      23: 2300062
+    second: pTorus13
+  - first:
+      23: 2300064
+    second: pTorus14
+  - first:
+      23: 2300066
+    second: pTorus15
+  - first:
+      23: 2300068
+    second: pTorus16
+  - first:
+      23: 2300070
+    second: pTorus17
+  - first:
+      23: 2300072
+    second: pTorus18
+  - first:
+      23: 2300074
+    second: pTorus2
+  - first:
+      23: 2300076
+    second: pTorus20
+  - first:
+      23: 2300078
+    second: pTorus21
+  - first:
+      23: 2300080
+    second: pTorus22
+  - first:
+      23: 2300082
+    second: pTorus23
+  - first:
+      23: 2300084
+    second: pTorus24
+  - first:
+      23: 2300086
+    second: pTorus25
+  - first:
+      23: 2300088
+    second: pTorus26
+  - first:
+      23: 2300090
+    second: pTorus27
+  - first:
+      23: 2300092
+    second: pTorus28
+  - first:
+      23: 2300094
+    second: pTorus29
+  - first:
+      23: 2300096
+    second: pTorus3
+  - first:
+      23: 2300098
+    second: pTorus30
+  - first:
+      23: 2300100
+    second: pTorus31
+  - first:
+      23: 2300102
+    second: pTorus32
+  - first:
+      23: 2300104
+    second: pTorus33
+  - first:
+      23: 2300106
+    second: pTorus34
+  - first:
+      23: 2300108
+    second: pTorus36
+  - first:
+      23: 2300110
+    second: pTorus37
+  - first:
+      23: 2300112
+    second: pTorus38
+  - first:
+      23: 2300114
+    second: pTorus39
+  - first:
+      23: 2300116
+    second: pTorus4
+  - first:
+      23: 2300118
+    second: pTorus40
+  - first:
+      23: 2300120
+    second: pTorus41
+  - first:
+      23: 2300122
+    second: pTorus42
+  - first:
+      23: 2300124
+    second: pTorus43
+  - first:
+      23: 2300126
+    second: pTorus44
+  - first:
+      23: 2300128
+    second: pTorus45
+  - first:
+      23: 2300130
+    second: pTorus46
+  - first:
+      23: 2300132
+    second: pTorus47
+  - first:
+      23: 2300134
+    second: pTorus48
+  - first:
+      23: 2300136
+    second: pTorus49
+  - first:
+      23: 2300138
+    second: pTorus5
+  - first:
+      23: 2300140
+    second: pTorus50
+  - first:
+      23: 2300142
+    second: pTorus51
+  - first:
+      23: 2300144
+    second: pTorus52
+  - first:
+      23: 2300146
+    second: pTorus53
+  - first:
+      23: 2300148
+    second: pTorus54
+  - first:
+      23: 2300150
+    second: pTorus55
+  - first:
+      23: 2300152
+    second: pTorus57
+  - first:
+      23: 2300154
+    second: pTorus58
+  - first:
+      23: 2300156
+    second: pTorus59
+  - first:
+      23: 2300158
+    second: pTorus6
+  - first:
+      23: 2300160
+    second: pTorus60
+  - first:
+      23: 2300162
+    second: pTorus61
+  - first:
+      23: 2300164
+    second: pTorus62
+  - first:
+      23: 2300166
+    second: pTorus63
+  - first:
+      23: 2300168
+    second: pTorus64
+  - first:
+      23: 2300170
+    second: pTorus65
+  - first:
+      23: 2300172
+    second: pTorus66
+  - first:
+      23: 2300174
+    second: pTorus67
+  - first:
+      23: 2300176
+    second: pTorus68
+  - first:
+      23: 2300178
+    second: pTorus69
+  - first:
+      23: 2300180
+    second: pTorus7
+  - first:
+      23: 2300182
+    second: pTorus70
+  - first:
+      23: 2300184
+    second: pTorus71
+  - first:
+      23: 2300186
+    second: pTorus72
+  - first:
+      23: 2300188
+    second: pTorus73
+  - first:
+      23: 2300190
+    second: pTorus74
+  - first:
+      23: 2300192
+    second: pTorus75
+  - first:
+      23: 2300194
+    second: pTorus76
+  - first:
+      23: 2300196
+    second: pTorus77
+  - first:
+      23: 2300198
+    second: pTorus78
+  - first:
+      23: 2300200
+    second: pTorus79
+  - first:
+      23: 2300202
+    second: pTorus8
+  - first:
+      23: 2300204
+    second: pTorus8 1
+  - first:
+      23: 2300206
+    second: pTorus80
+  - first:
+      23: 2300208
+    second: Right_Side
+  - first:
+      23: 2300210
+    second: Stone_1
+  - first:
+      23: 2300212
+    second: Stone_2
+  - first:
+      23: 2300214
+    second: Stool_A
+  - first:
+      23: 2300216
+    second: Stool_A_Broken 2
+  - first:
+      23: 2300218
+    second: Table_A
+  - first:
+      23: 2300220
+    second: Table_B
+  - first:
+      23: 2300222
+    second: Table_C
+  - first:
+      23: 2300224
+    second: Torch
+  - first:
+      23: 2300226
+    second: Wood_Seat
+  - first:
+      23: 2300228
+    second: Barrel_Collider
+  - first:
+      23: 2300230
+    second: Chain_Link_1
+  - first:
+      23: 2300232
+    second: Chain_Link_1 1
+  - first:
+      23: 2300234
+    second: Chain_Link_1 2
+  - first:
+      23: 2300236
+    second: Chain_Link_10
+  - first:
+      23: 2300238
+    second: Chain_Link_10 1
+  - first:
+      23: 2300240
+    second: Chain_Link_10 2
+  - first:
+      23: 2300242
+    second: Chain_Link_11
+  - first:
+      23: 2300244
+    second: Chain_Link_11 1
+  - first:
+      23: 2300246
+    second: Chain_Link_11 2
+  - first:
+      23: 2300248
+    second: Chain_Link_12
+  - first:
+      23: 2300250
+    second: Chain_Link_12 1
+  - first:
+      23: 2300252
+    second: Chain_Link_12 2
+  - first:
+      23: 2300254
+    second: Chain_Link_13
+  - first:
+      23: 2300256
+    second: Chain_Link_13 1
+  - first:
+      23: 2300258
+    second: Chain_Link_14
+  - first:
+      23: 2300260
+    second: Chain_Link_14 1
+  - first:
+      23: 2300262
+    second: Chain_Link_15
+  - first:
+      23: 2300264
+    second: Chain_Link_15 1
+  - first:
+      23: 2300266
+    second: Chain_Link_16
+  - first:
+      23: 2300268
+    second: Chain_Link_16 1
+  - first:
+      23: 2300270
+    second: Chain_Link_17
+  - first:
+      23: 2300272
+    second: Chain_Link_17 1
+  - first:
+      23: 2300274
+    second: Chain_Link_18
+  - first:
+      23: 2300276
+    second: Chain_Link_18 1
+  - first:
+      23: 2300278
+    second: Chain_Link_19
+  - first:
+      23: 2300280
+    second: Chain_Link_19 1
+  - first:
+      23: 2300282
+    second: Chain_Link_2
+  - first:
+      23: 2300284
+    second: Chain_Link_2 1
+  - first:
+      23: 2300286
+    second: Chain_Link_2 2
+  - first:
+      23: 2300288
+    second: Chain_Link_20
+  - first:
+      23: 2300290
+    second: Chain_Link_20 1
+  - first:
+      23: 2300292
+    second: Chain_Link_21
+  - first:
+      23: 2300294
+    second: Chain_Link_21 1
+  - first:
+      23: 2300296
+    second: Chain_Link_22
+  - first:
+      23: 2300298
+    second: Chain_Link_22 1
+  - first:
+      23: 2300300
+    second: Chain_Link_23
+  - first:
+      23: 2300302
+    second: Chain_Link_23 1
+  - first:
+      23: 2300304
+    second: Chain_Link_24
+  - first:
+      23: 2300306
+    second: Chain_Link_24 1
+  - first:
+      23: 2300308
+    second: Chain_Link_25
+  - first:
+      23: 2300310
+    second: Chain_Link_25 1
+  - first:
+      23: 2300312
+    second: Chain_Link_26
+  - first:
+      23: 2300314
+    second: Chain_Link_26 1
+  - first:
+      23: 2300316
+    second: Chain_Link_27
+  - first:
+      23: 2300318
+    second: Chain_Link_27 1
+  - first:
+      23: 2300320
+    second: Chain_Link_28
+  - first:
+      23: 2300322
+    second: Chain_Link_28 1
+  - first:
+      23: 2300324
+    second: Chain_Link_29
+  - first:
+      23: 2300326
+    second: Chain_Link_29 1
+  - first:
+      23: 2300328
+    second: Chain_Link_3
+  - first:
+      23: 2300330
+    second: Chain_Link_3 1
+  - first:
+      23: 2300332
+    second: Chain_Link_3 2
+  - first:
+      23: 2300334
+    second: Chain_Link_30
+  - first:
+      23: 2300336
+    second: Chain_Link_30 1
+  - first:
+      23: 2300338
+    second: Chain_Link_31
+  - first:
+      23: 2300340
+    second: Chain_Link_31 1
+  - first:
+      23: 2300342
+    second: Chain_Link_32
+  - first:
+      23: 2300344
+    second: Chain_Link_4
+  - first:
+      23: 2300346
+    second: Chain_Link_4 1
+  - first:
+      23: 2300348
+    second: Chain_Link_4 2
+  - first:
+      23: 2300350
+    second: Chain_Link_5
+  - first:
+      23: 2300352
+    second: Chain_Link_5 1
+  - first:
+      23: 2300354
+    second: Chain_Link_5 2
+  - first:
+      23: 2300356
+    second: Chain_Link_6
+  - first:
+      23: 2300358
+    second: Chain_Link_6 1
+  - first:
+      23: 2300360
+    second: Chain_Link_6 2
+  - first:
+      23: 2300362
+    second: Chain_Link_7
+  - first:
+      23: 2300364
+    second: Chain_Link_7 1
+  - first:
+      23: 2300366
+    second: Chain_Link_7 2
+  - first:
+      23: 2300368
+    second: Chain_Link_8
+  - first:
+      23: 2300370
+    second: Chain_Link_8 1
+  - first:
+      23: 2300372
+    second: Chain_Link_8 2
+  - first:
+      23: 2300374
+    second: Chain_Link_9
+  - first:
+      23: 2300376
+    second: Chain_Link_9 1
+  - first:
+      23: 2300378
+    second: Chain_Link_9 2
+  - first:
+      23: 2300380
+    second: Hook
+  - first:
+      23: 2300382
+    second: Peg_1
+  - first:
+      23: 2300384
+    second: Peg_2
+  - first:
+      23: 2300386
+    second: Plate
+  - first:
+      23: 2300388
+    second: Stool_A_Broken 1
+  - first:
+      23: 2300390
+    second: Chain_Link_1 3
+  - first:
+      23: 2300392
+    second: Chain_Link_1 4
+  - first:
+      23: 2300394
+    second: Chain_Link_10 3
+  - first:
+      23: 2300396
+    second: Chain_Link_10 4
+  - first:
+      23: 2300398
+    second: Chain_Link_11 3
+  - first:
+      23: 2300400
+    second: Chain_Link_11 4
+  - first:
+      23: 2300402
+    second: Chain_Link_12 3
+  - first:
+      23: 2300404
+    second: Chain_Link_12 4
+  - first:
+      23: 2300406
+    second: Chain_Link_13 2
+  - first:
+      23: 2300408
+    second: Chain_Link_14 2
+  - first:
+      23: 2300410
+    second: Chain_Link_15 2
+  - first:
+      23: 2300412
+    second: Chain_Link_16 2
+  - first:
+      23: 2300414
+    second: Chain_Link_17 2
+  - first:
+      23: 2300416
+    second: Chain_Link_18 2
+  - first:
+      23: 2300418
+    second: Chain_Link_19 2
+  - first:
+      23: 2300420
+    second: Chain_Link_2 3
+  - first:
+      23: 2300422
+    second: Chain_Link_2 4
+  - first:
+      23: 2300424
+    second: Chain_Link_20 2
+  - first:
+      23: 2300426
+    second: Chain_Link_21 2
+  - first:
+      23: 2300428
+    second: Chain_Link_22 2
+  - first:
+      23: 2300430
+    second: Chain_Link_23 2
+  - first:
+      23: 2300432
+    second: Chain_Link_24 2
+  - first:
+      23: 2300434
+    second: Chain_Link_25 2
+  - first:
+      23: 2300436
+    second: Chain_Link_26 2
+  - first:
+      23: 2300438
+    second: Chain_Link_27 2
+  - first:
+      23: 2300440
+    second: Chain_Link_28 2
+  - first:
+      23: 2300442
+    second: Chain_Link_29 2
+  - first:
+      23: 2300444
+    second: Chain_Link_3 3
+  - first:
+      23: 2300446
+    second: Chain_Link_3 4
+  - first:
+      23: 2300448
+    second: Chain_Link_30 2
+  - first:
+      23: 2300450
+    second: Chain_Link_31 2
+  - first:
+      23: 2300452
+    second: Chain_Link_4 3
+  - first:
+      23: 2300454
+    second: Chain_Link_4 4
+  - first:
+      23: 2300456
+    second: Chain_Link_5 3
+  - first:
+      23: 2300458
+    second: Chain_Link_5 4
+  - first:
+      23: 2300460
+    second: Chain_Link_6 3
+  - first:
+      23: 2300462
+    second: Chain_Link_6 4
+  - first:
+      23: 2300464
+    second: Chain_Link_7 3
+  - first:
+      23: 2300466
+    second: Chain_Link_7 4
+  - first:
+      23: 2300468
+    second: Chain_Link_8 3
+  - first:
+      23: 2300470
+    second: Chain_Link_8 4
+  - first:
+      23: 2300472
+    second: Chain_Link_9 3
+  - first:
+      23: 2300474
+    second: Chain_Link_9 4
+  - first:
+      23: 2300476
+    second: Debris_1 1
+  - first:
+      23: 2300478
+    second: Debris_2 1
+  - first:
+      23: 2300480
+    second: Floor_Cage
+  - first:
+      23: 2300482
+    second: Hanging_Cage
+  - first:
+      23: 2300484
+    second: Hook 1
+  - first:
+      23: 2300486
+    second: Plate 1
+  - first:
+      23: 2300488
+    second: Tunnel_Grate
+  - first:
+      23: 2300490
+    second: Tunnel_Grate_Broken 1
+  - first:
+      23: 2300492
+    second: Leg_1
+  - first:
+      23: 2300494
+    second: Leg_1 1
+  - first:
+      23: 2300496
+    second: Leg_1 2
+  - first:
+      23: 2300498
+    second: Leg_2
+  - first:
+      23: 2300500
+    second: Leg_2 1
+  - first:
+      23: 2300502
+    second: Leg_2 2
+  - first:
+      23: 2300504
+    second: Leg_3
+  - first:
+      23: 2300506
+    second: Leg_3 1
+  - first:
+      23: 2300508
+    second: Leg_3 2
+  - first:
+      23: 2300510
+    second: Leg_4
+  - first:
+      23: 2300512
+    second: Leg_4 1
+  - first:
+      23: 2300514
+    second: Leg_4 2
+  - first:
+      23: 2300516
+    second: Table_Top
+  - first:
+      23: 2300518
+    second: Table_Top 1
+  - first:
+      23: 2300520
+    second: Table_Top 2
+  - first:
+      33: 3300000
+    second: Arch_Gate
+  - first:
+      33: 3300002
+    second: Bar_1
+  - first:
+      33: 3300004
+    second: Bar_2
+  - first:
+      33: 3300006
+    second: Bar_3
+  - first:
+      33: 3300008
+    second: Bar_4
+  - first:
+      33: 3300010
+    second: Bar_5
+  - first:
+      33: 3300012
+    second: Barrel
+  - first:
+      33: 3300014
+    second: Bucket
+  - first:
+      33: 3300016
+    second: Candle_A
+  - first:
+      33: 3300018
+    second: Candle_B
+  - first:
+      33: 3300020
+    second: Candle_C
+  - first:
+      33: 3300022
+    second: Candle_D
+  - first:
+      33: 3300024
+    second: Candle_E
+  - first:
+      33: 3300026
+    second: Crate_A
+  - first:
+      33: 3300028
+    second: Crate_B
+  - first:
+      33: 3300030
+    second: Crate_C
+  - first:
+      33: 3300032
+    second: Debris_1
+  - first:
+      33: 3300034
+    second: Debris_2
+  - first:
+      33: 3300036
+    second: Floor_Gate
+  - first:
+      33: 3300038
+    second: Key_A
+  - first:
+      33: 3300040
+    second: Key_B
+  - first:
+      33: 3300042
+    second: Key_C
+  - first:
+      33: 3300044
+    second: Keychain
+  - first:
+      33: 3300046
+    second: Left_Side
+  - first:
+      33: 3300048
+    second: pCube8
+  - first:
+      33: 3300050
+    second: pCylinder1
+  - first:
+      33: 3300052
+    second: pCylinder2
+  - first:
+      33: 3300054
+    second: pCylinder3
+  - first:
+      33: 3300056
+    second: pTorus1
+  - first:
+      33: 3300058
+    second: pTorus11
+  - first:
+      33: 3300060
+    second: pTorus12
+  - first:
+      33: 3300062
+    second: pTorus13
+  - first:
+      33: 3300064
+    second: pTorus14
+  - first:
+      33: 3300066
+    second: pTorus15
+  - first:
+      33: 3300068
+    second: pTorus16
+  - first:
+      33: 3300070
+    second: pTorus17
+  - first:
+      33: 3300072
+    second: pTorus18
+  - first:
+      33: 3300074
+    second: pTorus2
+  - first:
+      33: 3300076
+    second: pTorus20
+  - first:
+      33: 3300078
+    second: pTorus21
+  - first:
+      33: 3300080
+    second: pTorus22
+  - first:
+      33: 3300082
+    second: pTorus23
+  - first:
+      33: 3300084
+    second: pTorus24
+  - first:
+      33: 3300086
+    second: pTorus25
+  - first:
+      33: 3300088
+    second: pTorus26
+  - first:
+      33: 3300090
+    second: pTorus27
+  - first:
+      33: 3300092
+    second: pTorus28
+  - first:
+      33: 3300094
+    second: pTorus29
+  - first:
+      33: 3300096
+    second: pTorus3
+  - first:
+      33: 3300098
+    second: pTorus30
+  - first:
+      33: 3300100
+    second: pTorus31
+  - first:
+      33: 3300102
+    second: pTorus32
+  - first:
+      33: 3300104
+    second: pTorus33
+  - first:
+      33: 3300106
+    second: pTorus34
+  - first:
+      33: 3300108
+    second: pTorus36
+  - first:
+      33: 3300110
+    second: pTorus37
+  - first:
+      33: 3300112
+    second: pTorus38
+  - first:
+      33: 3300114
+    second: pTorus39
+  - first:
+      33: 3300116
+    second: pTorus4
+  - first:
+      33: 3300118
+    second: pTorus40
+  - first:
+      33: 3300120
+    second: pTorus41
+  - first:
+      33: 3300122
+    second: pTorus42
+  - first:
+      33: 3300124
+    second: pTorus43
+  - first:
+      33: 3300126
+    second: pTorus44
+  - first:
+      33: 3300128
+    second: pTorus45
+  - first:
+      33: 3300130
+    second: pTorus46
+  - first:
+      33: 3300132
+    second: pTorus47
+  - first:
+      33: 3300134
+    second: pTorus48
+  - first:
+      33: 3300136
+    second: pTorus49
+  - first:
+      33: 3300138
+    second: pTorus5
+  - first:
+      33: 3300140
+    second: pTorus50
+  - first:
+      33: 3300142
+    second: pTorus51
+  - first:
+      33: 3300144
+    second: pTorus52
+  - first:
+      33: 3300146
+    second: pTorus53
+  - first:
+      33: 3300148
+    second: pTorus54
+  - first:
+      33: 3300150
+    second: pTorus55
+  - first:
+      33: 3300152
+    second: pTorus57
+  - first:
+      33: 3300154
+    second: pTorus58
+  - first:
+      33: 3300156
+    second: pTorus59
+  - first:
+      33: 3300158
+    second: pTorus6
+  - first:
+      33: 3300160
+    second: pTorus60
+  - first:
+      33: 3300162
+    second: pTorus61
+  - first:
+      33: 3300164
+    second: pTorus62
+  - first:
+      33: 3300166
+    second: pTorus63
+  - first:
+      33: 3300168
+    second: pTorus64
+  - first:
+      33: 3300170
+    second: pTorus65
+  - first:
+      33: 3300172
+    second: pTorus66
+  - first:
+      33: 3300174
+    second: pTorus67
+  - first:
+      33: 3300176
+    second: pTorus68
+  - first:
+      33: 3300178
+    second: pTorus69
+  - first:
+      33: 3300180
+    second: pTorus7
+  - first:
+      33: 3300182
+    second: pTorus70
+  - first:
+      33: 3300184
+    second: pTorus71
+  - first:
+      33: 3300186
+    second: pTorus72
+  - first:
+      33: 3300188
+    second: pTorus73
+  - first:
+      33: 3300190
+    second: pTorus74
+  - first:
+      33: 3300192
+    second: pTorus75
+  - first:
+      33: 3300194
+    second: pTorus76
+  - first:
+      33: 3300196
+    second: pTorus77
+  - first:
+      33: 3300198
+    second: pTorus78
+  - first:
+      33: 3300200
+    second: pTorus79
+  - first:
+      33: 3300202
+    second: pTorus8
+  - first:
+      33: 3300204
+    second: pTorus8 1
+  - first:
+      33: 3300206
+    second: pTorus80
+  - first:
+      33: 3300208
+    second: Right_Side
+  - first:
+      33: 3300210
+    second: Stone_1
+  - first:
+      33: 3300212
+    second: Stone_2
+  - first:
+      33: 3300214
+    second: Stool_A
+  - first:
+      33: 3300216
+    second: Stool_A_Broken 2
+  - first:
+      33: 3300218
+    second: Table_A
+  - first:
+      33: 3300220
+    second: Table_B
+  - first:
+      33: 3300222
+    second: Table_C
+  - first:
+      33: 3300224
+    second: Torch
+  - first:
+      33: 3300226
+    second: Wood_Seat
+  - first:
+      33: 3300228
+    second: Barrel_Collider
+  - first:
+      33: 3300230
+    second: Chain_Link_1
+  - first:
+      33: 3300232
+    second: Chain_Link_1 1
+  - first:
+      33: 3300234
+    second: Chain_Link_1 2
+  - first:
+      33: 3300236
+    second: Chain_Link_10
+  - first:
+      33: 3300238
+    second: Chain_Link_10 1
+  - first:
+      33: 3300240
+    second: Chain_Link_10 2
+  - first:
+      33: 3300242
+    second: Chain_Link_11
+  - first:
+      33: 3300244
+    second: Chain_Link_11 1
+  - first:
+      33: 3300246
+    second: Chain_Link_11 2
+  - first:
+      33: 3300248
+    second: Chain_Link_12
+  - first:
+      33: 3300250
+    second: Chain_Link_12 1
+  - first:
+      33: 3300252
+    second: Chain_Link_12 2
+  - first:
+      33: 3300254
+    second: Chain_Link_13
+  - first:
+      33: 3300256
+    second: Chain_Link_13 1
+  - first:
+      33: 3300258
+    second: Chain_Link_14
+  - first:
+      33: 3300260
+    second: Chain_Link_14 1
+  - first:
+      33: 3300262
+    second: Chain_Link_15
+  - first:
+      33: 3300264
+    second: Chain_Link_15 1
+  - first:
+      33: 3300266
+    second: Chain_Link_16
+  - first:
+      33: 3300268
+    second: Chain_Link_16 1
+  - first:
+      33: 3300270
+    second: Chain_Link_17
+  - first:
+      33: 3300272
+    second: Chain_Link_17 1
+  - first:
+      33: 3300274
+    second: Chain_Link_18
+  - first:
+      33: 3300276
+    second: Chain_Link_18 1
+  - first:
+      33: 3300278
+    second: Chain_Link_19
+  - first:
+      33: 3300280
+    second: Chain_Link_19 1
+  - first:
+      33: 3300282
+    second: Chain_Link_2
+  - first:
+      33: 3300284
+    second: Chain_Link_2 1
+  - first:
+      33: 3300286
+    second: Chain_Link_2 2
+  - first:
+      33: 3300288
+    second: Chain_Link_20
+  - first:
+      33: 3300290
+    second: Chain_Link_20 1
+  - first:
+      33: 3300292
+    second: Chain_Link_21
+  - first:
+      33: 3300294
+    second: Chain_Link_21 1
+  - first:
+      33: 3300296
+    second: Chain_Link_22
+  - first:
+      33: 3300298
+    second: Chain_Link_22 1
+  - first:
+      33: 3300300
+    second: Chain_Link_23
+  - first:
+      33: 3300302
+    second: Chain_Link_23 1
+  - first:
+      33: 3300304
+    second: Chain_Link_24
+  - first:
+      33: 3300306
+    second: Chain_Link_24 1
+  - first:
+      33: 3300308
+    second: Chain_Link_25
+  - first:
+      33: 3300310
+    second: Chain_Link_25 1
+  - first:
+      33: 3300312
+    second: Chain_Link_26
+  - first:
+      33: 3300314
+    second: Chain_Link_26 1
+  - first:
+      33: 3300316
+    second: Chain_Link_27
+  - first:
+      33: 3300318
+    second: Chain_Link_27 1
+  - first:
+      33: 3300320
+    second: Chain_Link_28
+  - first:
+      33: 3300322
+    second: Chain_Link_28 1
+  - first:
+      33: 3300324
+    second: Chain_Link_29
+  - first:
+      33: 3300326
+    second: Chain_Link_29 1
+  - first:
+      33: 3300328
+    second: Chain_Link_3
+  - first:
+      33: 3300330
+    second: Chain_Link_3 1
+  - first:
+      33: 3300332
+    second: Chain_Link_3 2
+  - first:
+      33: 3300334
+    second: Chain_Link_30
+  - first:
+      33: 3300336
+    second: Chain_Link_30 1
+  - first:
+      33: 3300338
+    second: Chain_Link_31
+  - first:
+      33: 3300340
+    second: Chain_Link_31 1
+  - first:
+      33: 3300342
+    second: Chain_Link_32
+  - first:
+      33: 3300344
+    second: Chain_Link_4
+  - first:
+      33: 3300346
+    second: Chain_Link_4 1
+  - first:
+      33: 3300348
+    second: Chain_Link_4 2
+  - first:
+      33: 3300350
+    second: Chain_Link_5
+  - first:
+      33: 3300352
+    second: Chain_Link_5 1
+  - first:
+      33: 3300354
+    second: Chain_Link_5 2
+  - first:
+      33: 3300356
+    second: Chain_Link_6
+  - first:
+      33: 3300358
+    second: Chain_Link_6 1
+  - first:
+      33: 3300360
+    second: Chain_Link_6 2
+  - first:
+      33: 3300362
+    second: Chain_Link_7
+  - first:
+      33: 3300364
+    second: Chain_Link_7 1
+  - first:
+      33: 3300366
+    second: Chain_Link_7 2
+  - first:
+      33: 3300368
+    second: Chain_Link_8
+  - first:
+      33: 3300370
+    second: Chain_Link_8 1
+  - first:
+      33: 3300372
+    second: Chain_Link_8 2
+  - first:
+      33: 3300374
+    second: Chain_Link_9
+  - first:
+      33: 3300376
+    second: Chain_Link_9 1
+  - first:
+      33: 3300378
+    second: Chain_Link_9 2
+  - first:
+      33: 3300380
+    second: Hook
+  - first:
+      33: 3300382
+    second: Peg_1
+  - first:
+      33: 3300384
+    second: Peg_2
+  - first:
+      33: 3300386
+    second: Plate
+  - first:
+      33: 3300388
+    second: Stool_A_Broken 1
+  - first:
+      33: 3300390
+    second: Chain_Link_1 3
+  - first:
+      33: 3300392
+    second: Chain_Link_1 4
+  - first:
+      33: 3300394
+    second: Chain_Link_10 3
+  - first:
+      33: 3300396
+    second: Chain_Link_10 4
+  - first:
+      33: 3300398
+    second: Chain_Link_11 3
+  - first:
+      33: 3300400
+    second: Chain_Link_11 4
+  - first:
+      33: 3300402
+    second: Chain_Link_12 3
+  - first:
+      33: 3300404
+    second: Chain_Link_12 4
+  - first:
+      33: 3300406
+    second: Chain_Link_13 2
+  - first:
+      33: 3300408
+    second: Chain_Link_14 2
+  - first:
+      33: 3300410
+    second: Chain_Link_15 2
+  - first:
+      33: 3300412
+    second: Chain_Link_16 2
+  - first:
+      33: 3300414
+    second: Chain_Link_17 2
+  - first:
+      33: 3300416
+    second: Chain_Link_18 2
+  - first:
+      33: 3300418
+    second: Chain_Link_19 2
+  - first:
+      33: 3300420
+    second: Chain_Link_2 3
+  - first:
+      33: 3300422
+    second: Chain_Link_2 4
+  - first:
+      33: 3300424
+    second: Chain_Link_20 2
+  - first:
+      33: 3300426
+    second: Chain_Link_21 2
+  - first:
+      33: 3300428
+    second: Chain_Link_22 2
+  - first:
+      33: 3300430
+    second: Chain_Link_23 2
+  - first:
+      33: 3300432
+    second: Chain_Link_24 2
+  - first:
+      33: 3300434
+    second: Chain_Link_25 2
+  - first:
+      33: 3300436
+    second: Chain_Link_26 2
+  - first:
+      33: 3300438
+    second: Chain_Link_27 2
+  - first:
+      33: 3300440
+    second: Chain_Link_28 2
+  - first:
+      33: 3300442
+    second: Chain_Link_29 2
+  - first:
+      33: 3300444
+    second: Chain_Link_3 3
+  - first:
+      33: 3300446
+    second: Chain_Link_3 4
+  - first:
+      33: 3300448
+    second: Chain_Link_30 2
+  - first:
+      33: 3300450
+    second: Chain_Link_31 2
+  - first:
+      33: 3300452
+    second: Chain_Link_4 3
+  - first:
+      33: 3300454
+    second: Chain_Link_4 4
+  - first:
+      33: 3300456
+    second: Chain_Link_5 3
+  - first:
+      33: 3300458
+    second: Chain_Link_5 4
+  - first:
+      33: 3300460
+    second: Chain_Link_6 3
+  - first:
+      33: 3300462
+    second: Chain_Link_6 4
+  - first:
+      33: 3300464
+    second: Chain_Link_7 3
+  - first:
+      33: 3300466
+    second: Chain_Link_7 4
+  - first:
+      33: 3300468
+    second: Chain_Link_8 3
+  - first:
+      33: 3300470
+    second: Chain_Link_8 4
+  - first:
+      33: 3300472
+    second: Chain_Link_9 3
+  - first:
+      33: 3300474
+    second: Chain_Link_9 4
+  - first:
+      33: 3300476
+    second: Debris_1 1
+  - first:
+      33: 3300478
+    second: Debris_2 1
+  - first:
+      33: 3300480
+    second: Floor_Cage
+  - first:
+      33: 3300482
+    second: Hanging_Cage
+  - first:
+      33: 3300484
+    second: Hook 1
+  - first:
+      33: 3300486
+    second: Plate 1
+  - first:
+      33: 3300488
+    second: Tunnel_Grate
+  - first:
+      33: 3300490
+    second: Tunnel_Grate_Broken 1
+  - first:
+      33: 3300492
+    second: Leg_1
+  - first:
+      33: 3300494
+    second: Leg_1 1
+  - first:
+      33: 3300496
+    second: Leg_1 2
+  - first:
+      33: 3300498
+    second: Leg_2
+  - first:
+      33: 3300500
+    second: Leg_2 1
+  - first:
+      33: 3300502
+    second: Leg_2 2
+  - first:
+      33: 3300504
+    second: Leg_3
+  - first:
+      33: 3300506
+    second: Leg_3 1
+  - first:
+      33: 3300508
+    second: Leg_3 2
+  - first:
+      33: 3300510
+    second: Leg_4
+  - first:
+      33: 3300512
+    second: Leg_4 1
+  - first:
+      33: 3300514
+    second: Leg_4 2
+  - first:
+      33: 3300516
+    second: Table_Top
+  - first:
+      33: 3300518
+    second: Table_Top 1
+  - first:
+      33: 3300520
+    second: Table_Top 2
+  - first:
+      43: 4300000
+    second: Candle_A
+  - first:
+      43: 4300002
+    second: Candle_B
+  - first:
+      43: 4300004
+    second: Candle_C
+  - first:
+      43: 4300006
+    second: Candle_D
+  - first:
+      43: 4300008
+    second: Candle_E
+  - first:
+      43: 4300010
+    second: Arch_Gate
+  - first:
+      43: 4300012
+    second: Floor_Gate
+  - first:
+      43: 4300014
+    second: pCylinder1
+  - first:
+      43: 4300016
+    second: pTorus1
+  - first:
+      43: 4300018
+    second: pTorus2
+  - first:
+      43: 4300020
+    second: pTorus3
+  - first:
+      43: 4300022
+    second: pTorus4
+  - first:
+      43: 4300024
+    second: pTorus5
+  - first:
+      43: 4300026
+    second: pTorus6
+  - first:
+      43: 4300028
+    second: pTorus7
+  - first:
+      43: 4300030
+    second: pTorus8
+  - first:
+      43: 4300032
+    second: pCylinder2
+  - first:
+      43: 4300034
+    second: pTorus11
+  - first:
+      43: 4300036
+    second: pTorus12
+  - first:
+      43: 4300038
+    second: pTorus13
+  - first:
+      43: 4300040
+    second: pTorus14
+  - first:
+      43: 4300042
+    second: pTorus15
+  - first:
+      43: 4300044
+    second: pTorus16
+  - first:
+      43: 4300046
+    second: pTorus17
+  - first:
+      43: 4300048
+    second: pTorus18
+  - first:
+      43: 4300050
+    second: pTorus20
+  - first:
+      43: 4300052
+    second: pTorus21
+  - first:
+      43: 4300054
+    second: pTorus22
+  - first:
+      43: 4300056
+    second: pTorus23
+  - first:
+      43: 4300058
+    second: pTorus24
+  - first:
+      43: 4300060
+    second: pTorus25
+  - first:
+      43: 4300062
+    second: pTorus26
+  - first:
+      43: 4300064
+    second: pTorus27
+  - first:
+      43: 4300066
+    second: pTorus28
+  - first:
+      43: 4300068
+    second: pTorus29
+  - first:
+      43: 4300070
+    second: pTorus30
+  - first:
+      43: 4300072
+    second: pTorus31
+  - first:
+      43: 4300074
+    second: pTorus32
+  - first:
+      43: 4300076
+    second: pTorus33
+  - first:
+      43: 4300078
+    second: pTorus34
+  - first:
+      43: 4300080
+    second: pTorus36
+  - first:
+      43: 4300082
+    second: pTorus37
+  - first:
+      43: 4300084
+    second: pTorus38
+  - first:
+      43: 4300086
+    second: pTorus39
+  - first:
+      43: 4300088
+    second: pTorus40
+  - first:
+      43: 4300090
+    second: pTorus41
+  - first:
+      43: 4300092
+    second: pTorus42
+  - first:
+      43: 4300094
+    second: pTorus43
+  - first:
+      43: 4300096
+    second: pTorus44
+  - first:
+      43: 4300098
+    second: pTorus45
+  - first:
+      43: 4300100
+    second: pTorus46
+  - first:
+      43: 4300102
+    second: pTorus47
+  - first:
+      43: 4300104
+    second: pTorus48
+  - first:
+      43: 4300106
+    second: pCube8
+  - first:
+      43: 4300108
+    second: pCylinder3
+  - first:
+      43: 4300110
+    second: pTorus8
+  - first:
+      43: 4300112
+    second: pTorus49
+  - first:
+      43: 4300114
+    second: pTorus50
+  - first:
+      43: 4300116
+    second: pTorus51
+  - first:
+      43: 4300118
+    second: pTorus52
+  - first:
+      43: 4300120
+    second: pTorus53
+  - first:
+      43: 4300122
+    second: pTorus54
+  - first:
+      43: 4300124
+    second: pTorus55
+  - first:
+      43: 4300126
+    second: pTorus57
+  - first:
+      43: 4300128
+    second: pTorus58
+  - first:
+      43: 4300130
+    second: pTorus59
+  - first:
+      43: 4300132
+    second: pTorus60
+  - first:
+      43: 4300134
+    second: pTorus61
+  - first:
+      43: 4300136
+    second: pTorus62
+  - first:
+      43: 4300138
+    second: pTorus63
+  - first:
+      43: 4300140
+    second: pTorus64
+  - first:
+      43: 4300142
+    second: pTorus65
+  - first:
+      43: 4300144
+    second: pTorus66
+  - first:
+      43: 4300146
+    second: pTorus67
+  - first:
+      43: 4300148
+    second: pTorus68
+  - first:
+      43: 4300150
+    second: pTorus69
+  - first:
+      43: 4300152
+    second: pTorus70
+  - first:
+      43: 4300154
+    second: pTorus71
+  - first:
+      43: 4300156
+    second: pTorus72
+  - first:
+      43: 4300158
+    second: pTorus73
+  - first:
+      43: 4300160
+    second: pTorus74
+  - first:
+      43: 4300162
+    second: pTorus75
+  - first:
+      43: 4300164
+    second: pTorus76
+  - first:
+      43: 4300166
+    second: pTorus77
+  - first:
+      43: 4300168
+    second: pTorus78
+  - first:
+      43: 4300170
+    second: pTorus79
+  - first:
+      43: 4300172
+    second: pTorus80
+  - first:
+      43: 4300174
+    second: Torch
+  - first:
+      43: 4300176
+    second: Crate_A
+  - first:
+      43: 4300178
+    second: Crate_B
+  - first:
+      43: 4300180
+    second: Crate_C
+  - first:
+      43: 4300182
+    second: Bucket
+  - first:
+      43: 4300184
+    second: Keychain
+  - first:
+      43: 4300186
+    second: Key_A
+  - first:
+      43: 4300188
+    second: Key_B
+  - first:
+      43: 4300190
+    second: Key_C
+  - first:
+      43: 4300192
+    second: Barrel
+  - first:
+      43: 4300194
+    second: Stool_A
+  - first:
+      43: 4300196
+    second: Debris_1
+  - first:
+      43: 4300198
+    second: Debris_2
+  - first:
+      43: 4300200
+    second: Stool_A_Broken
+  - first:
+      43: 4300202
+    second: Left_Side
+  - first:
+      43: 4300204
+    second: Right_Side
+  - first:
+      43: 4300206
+    second: Bar_1
+  - first:
+      43: 4300208
+    second: Bar_2
+  - first:
+      43: 4300210
+    second: Bar_3
+  - first:
+      43: 4300212
+    second: Bar_4
+  - first:
+      43: 4300214
+    second: Bar_5
+  - first:
+      43: 4300216
+    second: Table_A
+  - first:
+      43: 4300218
+    second: Table_B
+  - first:
+      43: 4300220
+    second: Table_C
+  - first:
+      43: 4300222
+    second: Wood_Seat
+  - first:
+      43: 4300224
+    second: Stone_1
+  - first:
+      43: 4300226
+    second: Stone_2
+  - first:
+      43: 4300228
+    second: Barrel_Collider
+  - first:
+      43: 4300230
+    second: Peg_1
+  - first:
+      43: 4300232
+    second: Peg_2
+  - first:
+      43: 4300234
+    second: Chain_Link_1
+  - first:
+      43: 4300236
+    second: Chain_Link_2
+  - first:
+      43: 4300238
+    second: Chain_Link_3
+  - first:
+      43: 4300240
+    second: Chain_Link_4
+  - first:
+      43: 4300242
+    second: Chain_Link_5
+  - first:
+      43: 4300244
+    second: Chain_Link_6
+  - first:
+      43: 4300246
+    second: Chain_Link_7
+  - first:
+      43: 4300248
+    second: Chain_Link_8
+  - first:
+      43: 4300250
+    second: Chain_Link_9
+  - first:
+      43: 4300252
+    second: Chain_Link_10
+  - first:
+      43: 4300254
+    second: Chain_Link_11
+  - first:
+      43: 4300256
+    second: Chain_Link_12
+  - first:
+      43: 4300258
+    second: Chain_Link_13
+  - first:
+      43: 4300260
+    second: Chain_Link_14
+  - first:
+      43: 4300262
+    second: Chain_Link_15
+  - first:
+      43: 4300264
+    second: Chain_Link_16
+  - first:
+      43: 4300266
+    second: Chain_Link_17
+  - first:
+      43: 4300268
+    second: Chain_Link_18
+  - first:
+      43: 4300270
+    second: Chain_Link_19
+  - first:
+      43: 4300272
+    second: Chain_Link_20
+  - first:
+      43: 4300274
+    second: Chain_Link_21
+  - first:
+      43: 4300276
+    second: Chain_Link_22
+  - first:
+      43: 4300278
+    second: Chain_Link_23
+  - first:
+      43: 4300280
+    second: Chain_Link_24
+  - first:
+      43: 4300282
+    second: Chain_Link_25
+  - first:
+      43: 4300284
+    second: Chain_Link_26
+  - first:
+      43: 4300286
+    second: Chain_Link_27
+  - first:
+      43: 4300288
+    second: Chain_Link_28
+  - first:
+      43: 4300290
+    second: Chain_Link_29
+  - first:
+      43: 4300292
+    second: Chain_Link_30
+  - first:
+      43: 4300294
+    second: Chain_Link_31
+  - first:
+      43: 4300296
+    second: Plate
+  - first:
+      43: 4300298
+    second: Chain_Link_1
+  - first:
+      43: 4300300
+    second: Chain_Link_2
+  - first:
+      43: 4300302
+    second: Chain_Link_3
+  - first:
+      43: 4300304
+    second: Chain_Link_4
+  - first:
+      43: 4300306
+    second: Chain_Link_5
+  - first:
+      43: 4300308
+    second: Chain_Link_6
+  - first:
+      43: 4300310
+    second: Chain_Link_7
+  - first:
+      43: 4300312
+    second: Chain_Link_8
+  - first:
+      43: 4300314
+    second: Chain_Link_9
+  - first:
+      43: 4300316
+    second: Chain_Link_10
+  - first:
+      43: 4300318
+    second: Chain_Link_11
+  - first:
+      43: 4300320
+    second: Chain_Link_12
+  - first:
+      43: 4300322
+    second: Hook
+  - first:
+      43: 4300324
+    second: Chain_Link_1
+  - first:
+      43: 4300326
+    second: Chain_Link_2
+  - first:
+      43: 4300328
+    second: Chain_Link_3
+  - first:
+      43: 4300330
+    second: Chain_Link_4
+  - first:
+      43: 4300332
+    second: Chain_Link_5
+  - first:
+      43: 4300334
+    second: Chain_Link_6
+  - first:
+      43: 4300336
+    second: Chain_Link_7
+  - first:
+      43: 4300338
+    second: Chain_Link_8
+  - first:
+      43: 4300340
+    second: Chain_Link_9
+  - first:
+      43: 4300342
+    second: Chain_Link_10
+  - first:
+      43: 4300344
+    second: Chain_Link_11
+  - first:
+      43: 4300346
+    second: Chain_Link_12
+  - first:
+      43: 4300348
+    second: Chain_Link_13
+  - first:
+      43: 4300350
+    second: Chain_Link_14
+  - first:
+      43: 4300352
+    second: Chain_Link_15
+  - first:
+      43: 4300354
+    second: Chain_Link_16
+  - first:
+      43: 4300356
+    second: Chain_Link_17
+  - first:
+      43: 4300358
+    second: Chain_Link_18
+  - first:
+      43: 4300360
+    second: Chain_Link_19
+  - first:
+      43: 4300362
+    second: Chain_Link_20
+  - first:
+      43: 4300364
+    second: Chain_Link_21
+  - first:
+      43: 4300366
+    second: Chain_Link_22
+  - first:
+      43: 4300368
+    second: Chain_Link_23
+  - first:
+      43: 4300370
+    second: Chain_Link_24
+  - first:
+      43: 4300372
+    second: Chain_Link_25
+  - first:
+      43: 4300374
+    second: Chain_Link_26
+  - first:
+      43: 4300376
+    second: Chain_Link_27
+  - first:
+      43: 4300378
+    second: Chain_Link_28
+  - first:
+      43: 4300380
+    second: Chain_Link_29
+  - first:
+      43: 4300382
+    second: Chain_Link_30
+  - first:
+      43: 4300384
+    second: Chain_Link_31
+  - first:
+      43: 4300386
+    second: Chain_Link_32
+  - first:
+      43: 4300388
+    second: Chain_Link_1
+  - first:
+      43: 4300390
+    second: Chain_Link_2
+  - first:
+      43: 4300392
+    second: Chain_Link_3
+  - first:
+      43: 4300394
+    second: Chain_Link_4
+  - first:
+      43: 4300396
+    second: Chain_Link_5
+  - first:
+      43: 4300398
+    second: Chain_Link_6
+  - first:
+      43: 4300400
+    second: Chain_Link_7
+  - first:
+      43: 4300402
+    second: Chain_Link_8
+  - first:
+      43: 4300404
+    second: Chain_Link_9
+  - first:
+      43: 4300406
+    second: Chain_Link_10
+  - first:
+      43: 4300408
+    second: Chain_Link_11
+  - first:
+      43: 4300410
+    second: Chain_Link_12
+  - first:
+      43: 4300412
+    second: Chain_Link_13
+  - first:
+      43: 4300414
+    second: Chain_Link_14
+  - first:
+      43: 4300416
+    second: Chain_Link_15
+  - first:
+      43: 4300418
+    second: Chain_Link_16
+  - first:
+      43: 4300420
+    second: Chain_Link_17
+  - first:
+      43: 4300422
+    second: Chain_Link_18
+  - first:
+      43: 4300424
+    second: Chain_Link_19
+  - first:
+      43: 4300426
+    second: Chain_Link_20
+  - first:
+      43: 4300428
+    second: Chain_Link_21
+  - first:
+      43: 4300430
+    second: Chain_Link_22
+  - first:
+      43: 4300432
+    second: Chain_Link_23
+  - first:
+      43: 4300434
+    second: Chain_Link_24
+  - first:
+      43: 4300436
+    second: Chain_Link_25
+  - first:
+      43: 4300438
+    second: Chain_Link_26
+  - first:
+      43: 4300440
+    second: Chain_Link_27
+  - first:
+      43: 4300442
+    second: Chain_Link_28
+  - first:
+      43: 4300444
+    second: Chain_Link_29
+  - first:
+      43: 4300446
+    second: Chain_Link_30
+  - first:
+      43: 4300448
+    second: Chain_Link_31
+  - first:
+      43: 4300450
+    second: Plate
+  - first:
+      43: 4300452
+    second: Chain_Link_1
+  - first:
+      43: 4300454
+    second: Chain_Link_2
+  - first:
+      43: 4300456
+    second: Chain_Link_3
+  - first:
+      43: 4300458
+    second: Chain_Link_4
+  - first:
+      43: 4300460
+    second: Chain_Link_5
+  - first:
+      43: 4300462
+    second: Chain_Link_6
+  - first:
+      43: 4300464
+    second: Chain_Link_7
+  - first:
+      43: 4300466
+    second: Chain_Link_8
+  - first:
+      43: 4300468
+    second: Chain_Link_9
+  - first:
+      43: 4300470
+    second: Chain_Link_10
+  - first:
+      43: 4300472
+    second: Chain_Link_11
+  - first:
+      43: 4300474
+    second: Chain_Link_12
+  - first:
+      43: 4300476
+    second: Hook
+  - first:
+      43: 4300478
+    second: Tunnel_Grate
+  - first:
+      43: 4300480
+    second: Tunnel_Grate_Broken
+  - first:
+      43: 4300482
+    second: Debris_1
+  - first:
+      43: 4300484
+    second: Debris_2
+  - first:
+      43: 4300486
+    second: Floor_Cage
+  - first:
+      43: 4300488
+    second: Hanging_Cage
+  - first:
+      43: 4300490
+    second: Table_Top
+  - first:
+      43: 4300492
+    second: Leg_1
+  - first:
+      43: 4300494
+    second: Leg_2
+  - first:
+      43: 4300496
+    second: Leg_3
+  - first:
+      43: 4300498
+    second: Leg_4
+  - first:
+      43: 4300500
+    second: Table_Top
+  - first:
+      43: 4300502
+    second: Leg_1
+  - first:
+      43: 4300504
+    second: Leg_2
+  - first:
+      43: 4300506
+    second: Leg_3
+  - first:
+      43: 4300508
+    second: Leg_4
+  - first:
+      43: 4300510
+    second: Table_Top
+  - first:
+      43: 4300512
+    second: Leg_1
+  - first:
+      43: 4300514
+    second: Leg_2
+  - first:
+      43: 4300516
+    second: Leg_3
+  - first:
+      43: 4300518
+    second: Leg_4
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Black
+    second: {fileID: 2100000, guid: 8bc5ac0fe40131e47928f741c680005f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Metal_A
+    second: {fileID: 2100000, guid: 02c07345313cb814eb6dcd63462e338a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Metal_B
+    second: {fileID: 2100000, guid: 199644c02aaad764ab340ad4746e055d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stone_A
+    second: {fileID: 2100000, guid: abf168830e83d264faa8fadb4d51cd13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wax_A
+    second: {fileID: 2100000, guid: 4e76a25edb2e4b8468dff616e0be6496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wood_A
+    second: {fileID: 2100000, guid: 556a0ec4707c1314996b87c43416357b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wood_B
+    second: {fileID: 2100000, guid: 4d38aa63d216bca45bbaa534d09d5d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wood_C
+    second: {fileID: 2100000, guid: 18f96cd0b7113f942bc0d421eaa81466, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 16
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
