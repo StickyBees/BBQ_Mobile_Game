@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0C333D28-5627-3E8D-C5F6-315F3865DE84}</ProjectGuid>
+    <ProjectGuid>{2D58A909-46FE-C7B6-CEF6-02007A6E8DC6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,37 +63,36 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Game\Scripts\Bin.cs" />
-    <Compile Include="Assets\Game\Scripts\Customer.cs" />
-    <Compile Include="Assets\Game\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Game\Scripts\Grill.cs" />
-    <Compile Include="Assets\Game\Scripts\Placement.cs" />
-    <Compile Include="Assets\Game\Scripts\Plate.cs" />
-    <Compile Include="Assets\Game\Scripts\PlateTrigger.cs" />
-    <Compile Include="Assets\Game\Scripts\Sausage.cs" />
-    <Compile Include="Assets\Menu\Menu_Manager.cs" />
-    <Compile Include="Assets\Menu\ReturnToMenu.cs" />
-    <Compile Include="Assets\UnoptimizedGame\Scripts\FindDoor.cs" />
+    <Compile Include="Assets\Scripts\Bin.cs" />
+    <Compile Include="Assets\Scripts\Customer.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Grill.cs" />
+    <Compile Include="Assets\Scripts\Menu\Menu_Manager.cs" />
+    <Compile Include="Assets\Scripts\Menu\ReturnToMenu.cs" />
+    <Compile Include="Assets\Scripts\Placement.cs" />
+    <Compile Include="Assets\Scripts\Plate.cs" />
+    <Compile Include="Assets\Scripts\PlateTrigger.cs" />
+    <Compile Include="Assets\Scripts\Sausage.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity/Editor/2019.1.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -273,13 +272,13 @@
       <HintPath>D:/Program Files/Unity/Editor/2019.1.5f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Programming_Portfolio/BBQ_Game/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Programming_Portfolio/BBQ_Mobile_Game/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:/Program Files/Unity/Editor/2019.1.5f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -626,12 +625,6 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>D:/Program Files/Unity/Editor/2019.1.5f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{FE73F730-2167-58E2-1D03-A9FD14C91230}</Project>
-      <Name>Assembly-CSharp-firstpass</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

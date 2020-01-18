@@ -579,8 +579,10 @@ MonoBehaviour:
   maxGameTime: 180
   customerInitialSpawnDelay: 3
   customerSpawnInterval: 4
-  customerSpawnChance: 40
-  minPointsToWin: 100
+  beginCustomerSpawnChance: 40
+  middleCustomerSpawnChance: 55
+  endCustomerSpawnChance: 70
+  minPointsToWin: 200
   beginMaxNumOfCustomers: 3
   middleMaxNumOfCustomers: 4
   endMaxNumOfCustomers: 5
